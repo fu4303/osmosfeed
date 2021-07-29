@@ -593,6 +593,58 @@
       "feedUrl": "https://nicolas-hoizey.com/feeds/articles.xml",
       "siteUrl": "https://nicolas-hoizey.com/feeds/articles.xml",
       "articles": []
+    },
+    {
+      "title": "Nicolas Hoizey - Links",
+      "feedUrl": "https://nicolas-hoizey.com/feeds/links.xml",
+      "siteUrl": "https://nicolas-hoizey.com/feeds/links.xml",
+      "articles": [
+        {
+          "id": "https://nicolas-hoizey.com/links/2021/07/22/urls-and-links-in-jekyll/",
+          "author": null,
+          "description": "https://mademistakes.com/mastering-jekyll/how-to-link/\n        \n\n        \nI'm not using Jekyll anymore, but I would have liked to find such a detailed documentation when I did start using it, years ago.\nOne particular need I always have when building sites is to \"organize supporting assets with a post in the same directory\", as Michael shows in the Document-relative URLs section, where he cites jekyll-postfiles, the Jekyll plugin I developed to provide a solution to this missing feature.",
+          "link": "https://nicolas-hoizey.com/links/2021/07/22/urls-and-links-in-jekyll/",
+          "publishedOn": "2021-07-22T07:30:31.000Z",
+          "wordCount": 153,
+          "title": "URLs and links in Jekyll"
+        },
+        {
+          "id": "https://nicolas-hoizey.com/links/2021/07/15/the-current-state-of-homepage-ux-8-common-pitfalls/",
+          "author": null,
+          "description": "https://baymard.com/blog/2021-current-state-of-ecommerce-homepage-ux\n        \n\n        \nwhile the homepage may not be the predominant entrance path it once was […], it still serves a central role as an anchor for the site’s category taxonomy, and an escape route — a place to refer back to throughout the shopping session.\nAnd yet, we struggle daily with most website… 😭",
+          "link": "https://nicolas-hoizey.com/links/2021/07/15/the-current-state-of-homepage-ux-8-common-pitfalls/",
+          "publishedOn": "2021-07-15T15:17:38.000Z",
+          "wordCount": 148,
+          "title": "The Current State of Homepage UX – 8 Common Pitfalls"
+        },
+        {
+          "id": "https://nicolas-hoizey.com/links/2021/07/12/the-large-small-and-dynamic-viewports/",
+          "author": null,
+          "description": "https://www.bram.us/2021/07/08/the-large-small-and-dynamic-viewports/\n        \n\n        \nBramus shows how the situation might finally improve for viewport height CSS units, more than 6 years after I reported the unreliable 100vh value as a bug to webkit, and webkit replied it was \"intended\".\nBe careful with the upcoming dynamic viewport units (dvh/dvb, dvmin and dvmax at least), as using it to size things in the block axis, as it may generate unpleasant changes in the UI.",
+          "link": "https://nicolas-hoizey.com/links/2021/07/12/the-large-small-and-dynamic-viewports/",
+          "publishedOn": "2021-07-12T07:38:49.000Z",
+          "wordCount": 164,
+          "title": "The Large, Small, and Dynamic Viewports"
+        },
+        {
+          "id": "https://nicolas-hoizey.com/links/2021/07/02/positioning-overlay-content-with-css-grid/",
+          "author": null,
+          "description": "https://css-tricks.com/positioning-overlay-content-with-css-grid/\n        \n\n        \nThese are really nice ways to use CSS Grid!",
+          "link": "https://nicolas-hoizey.com/links/2021/07/02/positioning-overlay-content-with-css-grid/",
+          "publishedOn": "2021-07-02T16:15:43.000Z",
+          "wordCount": 100,
+          "title": "Positioning Overlay Content with CSS Grid"
+        },
+        {
+          "id": "https://nicolas-hoizey.com/links/2021/07/02/how-to-compare-images-fairly/",
+          "author": null,
+          "description": "https://kornel.ski/en/faircomparison\n        \n\n        \nTo make a fair comparison you really have to pay meticulous attention to encoder settings, normalizing quality, and ensuring that compared images are in fact comparable.\nIt's really hard to make a fair comparison.",
+          "link": "https://nicolas-hoizey.com/links/2021/07/02/how-to-compare-images-fairly/",
+          "publishedOn": "2021-07-02T14:07:31.000Z",
+          "wordCount": 123,
+          "title": "How to compare images fairly"
+        }
+      ]
     }
   ],
   "cliVersion": "1.11.0"
