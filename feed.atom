@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-29T09:28:07.678Z</id>
+    <id>https://fu4303.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-29T09:28:07.678Z</updated>
+    <updated>2021-07-29T09:30:00.961Z</updated>
     <generator>osmosfeed 1.11.0</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://fu4303.github.io/osmosfeed/index.html"/>
+    <link rel="self" href="https://fu4303.github.io/osmosfeed/feed.atom"/>
     <entry>
         <title type="html"><![CDATA[Safari 15 Opinions]]></title>
         <id>https://css-tricks.com/?p=345404</id>
