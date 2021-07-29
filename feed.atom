@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fu4303.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-29T09:34:41.024Z</updated>
+    <updated>2021-07-29T09:41:36.822Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://fu4303.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://fu4303.github.io/osmosfeed/feed.atom"/>
@@ -66,6 +66,16 @@ The post Using Absolute Value, Sign, Rounding and Modulo in CSS Today appeared f
         <summary type="html"><![CDATA[Dialogs are everywhere in modern interface design (for good or for bad), and yet many of them are not accessible to assistive technologies. In this article, we will dig into how to create a short script to create accessible dialogs.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Kitty Giraudel)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating An Accessible Dialog From Scratch]]></title>
+        <id>https://www.smashingmagazine.com/2021/07/accessible-dialog-from-scratch/</id>
+        <link href="https://www.smashingmagazine.com/2021/07/accessible-dialog-from-scratch/"/>
+        <updated>2021-07-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dialogs are everywhere in modern interface design (for good or for bad), and yet many of them are not accessible to assistive technologies. In this article, we will dig into how to create a short script to create accessible dialogs.]]></summary>
+        <author>
+            <name>Kitty Giraudel</name>
         </author>
     </entry>
     <entry>
@@ -382,6 +392,23 @@ The post ECMAScript proposal: JSON modules appeared first on CSS-Tricks. You can
         <summary type="html"><![CDATA[Web app accessibility appears difficult because it seems that there is little information on the subject available online. Let’s take a closer look at the accessible use of framework features, concrete Vue.js traits, as well as community initiatives and vetted patterns.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Marcus Herrmann)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A micro-client for Sanity]]></title>
+        <id>https://kittygiraudel.com/2021/07/16/a-micro-client-for-sanity/</id>
+        <link href="https://kittygiraudel.com/2021/07/16/a-micro-client-for-sanity/"/>
+        <updated>2021-07-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we’ll go through creating a pair of utility functions wrapping the Sanity JavaScript client to query data without losing your sanity. … I’m sorry. 😶
+Shaping things up
+Here are the things we want to achieve:
+Making a distinction between fetching a single entry or a collection.
+Avoiding constructing GROQ queries manually.
+Giving precedence to draft content if instructed so via an option.
+To solve our first point, we’re going to author 2 functions: getEntry and getEntries. The first one will always return a single entry, while the second one will always return an array of entries.
+Our second point is going to be addressed by passing different arguments to our functions, all of which will be combined to construct a GROQ query which will eventually be forwarded to the Sanity c…]]></summary>
+        <author>
+            <name>Kitty Giraudel</name>
         </author>
     </entry>
     <entry>

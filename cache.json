@@ -645,6 +645,31 @@
           "title": "How to compare images fairly"
         }
       ]
+    },
+    {
+      "title": "Kitty Giraudel",
+      "feedUrl": "https://kittygiraudel.com/rss/index.xml",
+      "siteUrl": "https://kittygiraudel.com",
+      "articles": [
+        {
+          "id": "https://www.smashingmagazine.com/2021/07/accessible-dialog-from-scratch/",
+          "author": null,
+          "description": "Dialogs are everywhere in modern interface design (for good or for bad), and yet many of them are not accessible to assistive technologies. In this article, we will dig into how to create a short script to create accessible dialogs.",
+          "link": "https://www.smashingmagazine.com/2021/07/accessible-dialog-from-scratch/",
+          "publishedOn": "2021-07-28T00:00:00.000Z",
+          "wordCount": 3074,
+          "title": "Creating An Accessible Dialog From Scratch"
+        },
+        {
+          "id": "https://kittygiraudel.com/2021/07/16/a-micro-client-for-sanity/",
+          "author": null,
+          "description": "In this article, we’ll go through creating a pair of utility functions wrapping the Sanity JavaScript client to query data without losing your sanity. … I’m sorry. 😶\nShaping things up\nHere are the things we want to achieve:\nMaking a distinction between fetching a single entry or a collection.\nAvoiding constructing GROQ queries manually.\nGiving precedence to draft content if instructed so via an option.\nTo solve our first point, we’re going to author 2 functions: getEntry and getEntries. The first one will always return a single entry, while the second one will always return an array of entries.\nOur second point is going to be addressed by passing different arguments to our functions, all of which will be combined to construct a GROQ query which will eventually be forwarded to the Sanity c…",
+          "link": "https://kittygiraudel.com/2021/07/16/a-micro-client-for-sanity/",
+          "publishedOn": "2021-07-16T00:00:00.000Z",
+          "wordCount": 1427,
+          "title": "A micro-client for Sanity"
+        }
+      ]
     }
   ],
   "cliVersion": "1.11.0"
