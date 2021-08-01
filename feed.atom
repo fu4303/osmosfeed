@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fu4303.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-31T00:13:28.224Z</updated>
+    <updated>2021-08-01T00:16:41.058Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://fu4303.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://fu4303.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Good Vibes In August (2021 Desktop Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2021/07/desktop-wallpaper-calendars-august-2021/</id>
+        <link href="https://smashingmagazine.com/2021/07/desktop-wallpaper-calendars-august-2021/"/>
+        <updated>2021-07-31T07:15:00.000Z</updated>
+        <summary type="html"><![CDATA[New month, new wallpapers! In this post, you’ll find unique and inspiring wallpapers for August 2021. Created with love by the community for the community, they come in versions with and without a calendar for the month.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Basic HTML5 Template: Use This HTML Boilerplate as a Starter for Any Web Dev Project]]></title>
         <id>6053023028094f59be257c79</id>
@@ -770,26 +780,6 @@ To make a fair comparison you really have to pay meticulous attention to encoder
 It's really hard to make a fair comparison.]]></summary>
         <author>
             <name>Nicolas Hoizey - Links</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Email Testing Flow As It Should Be]]></title>
-        <id>https://smashingmagazine.com/2021/07/email-testing-flow/</id>
-        <link href="https://smashingmagazine.com/2021/07/email-testing-flow/"/>
-        <updated>2021-07-02T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[With so many tools and approaches, email still has quite a few pain points, both for developers and email marketers. Email is difficult because it has too many aspects to set and a few instances with no common rules to follow.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Andriy Zapisotskyi)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It’s A (Front-End Testing) Trap! Six Common Testing Pitfalls And How To Solve Them]]></title>
-        <id>https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/</id>
-        <link href="https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/"/>
-        <updated>2021-07-01T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[When writing front-end tests, you’ll find a lot of pitfalls along the way. Let’s explore common mistakes developers make, and how to avoid them. Testing doesn’t need to be painful, after all.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ramona Schwering)</name>
         </author>
     </entry>
 </feed>
