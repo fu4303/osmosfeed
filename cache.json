@@ -755,24 +755,6 @@
           "publishedOn": "2021-07-12T07:38:49.000Z",
           "wordCount": 164,
           "title": "The Large, Small, and Dynamic Viewports"
-        },
-        {
-          "id": "https://nicolas-hoizey.com/links/2021/07/02/positioning-overlay-content-with-css-grid/",
-          "author": null,
-          "description": "https://css-tricks.com/positioning-overlay-content-with-css-grid/\n        \n\n        \nThese are really nice ways to use CSS Grid!",
-          "link": "https://nicolas-hoizey.com/links/2021/07/02/positioning-overlay-content-with-css-grid/",
-          "publishedOn": "2021-07-02T16:15:43.000Z",
-          "wordCount": 100,
-          "title": "Positioning Overlay Content with CSS Grid"
-        },
-        {
-          "id": "https://nicolas-hoizey.com/links/2021/07/02/how-to-compare-images-fairly/",
-          "author": null,
-          "description": "https://kornel.ski/en/faircomparison\n        \n\n        \nTo make a fair comparison you really have to pay meticulous attention to encoder settings, normalizing quality, and ensuring that compared images are in fact comparable.\nIt's really hard to make a fair comparison.",
-          "link": "https://nicolas-hoizey.com/links/2021/07/02/how-to-compare-images-fairly/",
-          "publishedOn": "2021-07-02T14:07:31.000Z",
-          "wordCount": 123,
-          "title": "How to compare images fairly"
         }
       ]
     },
