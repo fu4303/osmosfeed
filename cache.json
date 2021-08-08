@@ -627,20 +627,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/07/strong-case-for-accessibility/",
-          "author": "hello@smashingmagazine.com (Todd Libby)",
-          "description": "Accessibility is often overlooked or bolted on to the end of a project. Let’s figure out how to implement and advocate for accessibility from the inception of a project to the release or handoff and beyond.",
-          "link": "https://smashingmagazine.com/2021/07/strong-case-for-accessibility/",
-          "publishedOn": "2021-07-09T10:30:00.000Z",
-          "wordCount": 2960,
-          "title": "Making A Strong Case For Accessibility",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9c226eaa-3251-4d02-9ade-96a88ad759fc/strong-case-for-accessibility.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
