@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fu4303.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-13T00:14:58.373Z</updated>
+    <updated>2021-08-14T00:14:33.109Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://fu4303.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://fu4303.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Unicode Arrows]]></title>
+        <id>https://css-tricks.com/?p=346665</id>
+        <link href="https://unicodearrows.com/"/>
+        <updated>2021-08-13T18:08:07.000Z</updated>
+        <summary type="html"><![CDATA[Looks like… 253 of them. I love the little water ⥾ spout one. (U+297e). Because. And I like how it’s a fairly useful little site at a great domain and with a little business model behind it. 
+Reminds …
+The post Unicode Arrows appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Cool Front End Thing Generator]]></title>
+        <id>https://css-tricks.com/?p=345944</id>
+        <link href="https://css-tricks.com/building-a-cool-front-end-thing-generator/"/>
+        <updated>2021-08-13T14:41:21.000Z</updated>
+        <summary type="html"><![CDATA[Whether you are just starting out on the front end, or you’ve been doing it for a long time, building a tool that can generate some cool front-end magic can help you learn something new, develop your skills and maybe …
+The post Building a Cool Front End Thing Generator appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>John Polacek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastodon & Fediverse for Beginners]]></title>
+        <id>https://nicolas-hoizey.com/links/2021/08/13/mastodon-fediverse-for-beginners/</id>
+        <link href="https://nicolas-hoizey.com/links/2021/08/13/mastodon-fediverse-for-beginners/"/>
+        <updated>2021-08-13T13:20:44.000Z</updated>
+        <summary type="html"><![CDATA[https://write.wien.rocks/paula/mastodon-and-fediverse-for-beginners
+        
+
+        
+Here's a good introduction to the Fediverse from Paula, with details about Mastodon and Pixelfed.
+Imagine Twitter, Facebook, Instagram & Co were all part of one giant network. That's basically what the fediverse is, except the parts are less well known, free & decentralized alternatives to those.
+E.g. Mastodon is like Twitter, Friendica is like Facebook, Pixelfed is like Instagram and there are many more.
+If you e.g. have a Mastodon account you can follow accounts on Friendica or Pixelfed and you might not even notice, that they are not Mastodon accounts.
+You can find me in these too:
+Mastodon
+Pixelfed]]></summary>
+        <author>
+            <name>Nicolas Hoizey - Links</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stay alert]]></title>
         <id>https://css-tricks.com/?p=346608</id>
@@ -1607,16 +1650,6 @@ And yet, we struggle daily with most website… 😭]]></summary>
         <summary type="html"><![CDATA[In this article, you’ll get to see some pretty groundbreaking things you can achieve with modern JavaScript grids and discover new ways to augment a data grid to make it engaging, responsive, and accessible. All this will be illustrated using Kendo UI Data Grids and their features.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Zara Cooper)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frustrating Design Patterns: Broken Filters]]></title>
-        <id>https://smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/</id>
-        <link href="https://smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/"/>
-        <updated>2021-07-14T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Too often dealing with filters can be frustrating. Let’s get them right. That means never freeze the UI on a single input, provide text input fallback and never auto-scroll users on a single input. Here’s why.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
