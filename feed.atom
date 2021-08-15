@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fu4303.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-14T00:14:33.109Z</updated>
+    <updated>2021-08-15T00:15:25.628Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://fu4303.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://fu4303.github.io/osmosfeed/feed.atom"/>
@@ -1598,58 +1598,6 @@ The post ECMAScript proposal: JSON modules appeared first on CSS-Tricks. You can
         <summary type="html"><![CDATA[Web app accessibility appears difficult because it seems that there is little information on the subject available online. Let’s take a closer look at the accessible use of framework features, concrete Vue.js traits, as well as community initiatives and vetted patterns.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Marcus Herrmann)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A micro-client for Sanity]]></title>
-        <id>https://kittygiraudel.com/2021/07/16/a-micro-client-for-sanity/</id>
-        <link href="https://kittygiraudel.com/2021/07/16/a-micro-client-for-sanity/"/>
-        <updated>2021-07-16T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’ll go through creating a pair of utility functions wrapping the Sanity JavaScript client to query data without losing your sanity. … I’m sorry. 😶
-Shaping things up
-Here are the things we want to achieve:
-Making a distinction between fetching a single entry or a collection.
-Avoiding constructing GROQ queries manually.
-Giving precedence to draft content if instructed so via an option.
-To solve our first point, we’re going to author 2 functions: getEntry and getEntries. The first one will always return a single entry, while the second one will always return an array of entries.
-Our second point is going to be addressed by passing different arguments to our functions, all of which will be combined to construct a GROQ query which will eventually be forwarded to the Sanity c…]]></summary>
-        <author>
-            <name>Kitty Giraudel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Current State of Homepage UX – 8 Common Pitfalls]]></title>
-        <id>https://nicolas-hoizey.com/links/2021/07/15/the-current-state-of-homepage-ux-8-common-pitfalls/</id>
-        <link href="https://nicolas-hoizey.com/links/2021/07/15/the-current-state-of-homepage-ux-8-common-pitfalls/"/>
-        <updated>2021-07-15T15:17:38.000Z</updated>
-        <summary type="html"><![CDATA[https://baymard.com/blog/2021-current-state-of-ecommerce-homepage-ux
-        
-
-        
-while the homepage may not be the predominant entrance path it once was […], it still serves a central role as an anchor for the site’s category taxonomy, and an escape route — a place to refer back to throughout the shopping session.
-And yet, we struggle daily with most website… 😭]]></summary>
-        <author>
-            <name>Nicolas Hoizey - Links</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ISR vs DPR: Big Words, Quick Explanation]]></title>
-        <id>https://smashingmagazine.com/2021/07/isr-dpr-explained/</id>
-        <link href="https://smashingmagazine.com/2021/07/isr-dpr-explained/"/>
-        <updated>2021-07-15T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There are two strategies for incrementally building websites that are growing in popularity: Incremental Static Regeneration and Distributed Persistent Rendering. What’s the difference? Let’s figure it out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cassidy Williams)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Can Do That With A JavaScript Data Grid?]]></title>
-        <id>https://smashingmagazine.com/2021/07/javascript-data-grid-kendo-ui/</id>
-        <link href="https://smashingmagazine.com/2021/07/javascript-data-grid-kendo-ui/"/>
-        <updated>2021-07-15T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you’ll get to see some pretty groundbreaking things you can achieve with modern JavaScript grids and discover new ways to augment a data grid to make it engaging, responsive, and accessible. All this will be illustrated using Kendo UI Data Grids and their features.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Zara Cooper)</name>
         </author>
     </entry>
 </feed>

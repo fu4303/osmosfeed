@@ -771,34 +771,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/07/isr-dpr-explained/",
-          "author": "hello@smashingmagazine.com (Cassidy Williams)",
-          "description": "There are two strategies for incrementally building websites that are growing in popularity: Incremental Static Regeneration and Distributed Persistent Rendering. What’s the difference? Let’s figure it out.",
-          "link": "https://smashingmagazine.com/2021/07/isr-dpr-explained/",
-          "publishedOn": "2021-07-15T14:00:00.000Z",
-          "wordCount": 1065,
-          "title": "ISR vs DPR: Big Words, Quick Explanation",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8e4090b9-8bd9-4d5a-aaed-5177c46a6803/isr-dpr-explained.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/07/javascript-data-grid-kendo-ui/",
-          "author": "hello@smashingmagazine.com (Zara Cooper)",
-          "description": "In this article, you’ll get to see some pretty groundbreaking things you can achieve with modern JavaScript grids and discover new ways to augment a data grid to make it engaging, responsive, and accessible. All this will be illustrated using Kendo UI Data Grids and their features.",
-          "link": "https://smashingmagazine.com/2021/07/javascript-data-grid-kendo-ui/",
-          "publishedOn": "2021-07-15T13:45:00.000Z",
-          "wordCount": 3199,
-          "title": "You Can Do That With A JavaScript Data Grid?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a22acbe3-8a80-4f08-95eb-d440e60c5723/kendo-ui-homepage.png",
-            "length": "0",
-            "type": "image/png"
-          }
         }
       ]
     },
@@ -1512,15 +1484,6 @@
           "publishedOn": "2021-07-22T07:30:31.000Z",
           "wordCount": 153,
           "title": "URLs and links in Jekyll"
-        },
-        {
-          "id": "https://nicolas-hoizey.com/links/2021/07/15/the-current-state-of-homepage-ux-8-common-pitfalls/",
-          "author": null,
-          "description": "https://baymard.com/blog/2021-current-state-of-ecommerce-homepage-ux\n        \n\n        \nwhile the homepage may not be the predominant entrance path it once was […], it still serves a central role as an anchor for the site’s category taxonomy, and an escape route — a place to refer back to throughout the shopping session.\nAnd yet, we struggle daily with most website… 😭",
-          "link": "https://nicolas-hoizey.com/links/2021/07/15/the-current-state-of-homepage-ux-8-common-pitfalls/",
-          "publishedOn": "2021-07-15T15:17:38.000Z",
-          "wordCount": 148,
-          "title": "The Current State of Homepage UX – 8 Common Pitfalls"
         }
       ]
     },
@@ -1546,15 +1509,6 @@
           "publishedOn": "2021-07-28T00:00:00.000Z",
           "wordCount": 3074,
           "title": "Creating An Accessible Dialog From Scratch"
-        },
-        {
-          "id": "https://kittygiraudel.com/2021/07/16/a-micro-client-for-sanity/",
-          "author": null,
-          "description": "In this article, we’ll go through creating a pair of utility functions wrapping the Sanity JavaScript client to query data without losing your sanity. … I’m sorry. 😶\nShaping things up\nHere are the things we want to achieve:\nMaking a distinction between fetching a single entry or a collection.\nAvoiding constructing GROQ queries manually.\nGiving precedence to draft content if instructed so via an option.\nTo solve our first point, we’re going to author 2 functions: getEntry and getEntries. The first one will always return a single entry, while the second one will always return an array of entries.\nOur second point is going to be addressed by passing different arguments to our functions, all of which will be combined to construct a GROQ query which will eventually be forwarded to the Sanity c…",
-          "link": "https://kittygiraudel.com/2021/07/16/a-micro-client-for-sanity/",
-          "publishedOn": "2021-07-16T00:00:00.000Z",
-          "wordCount": 1427,
-          "title": "A micro-client for Sanity"
         }
       ]
     }
