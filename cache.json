@@ -757,20 +757,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/",
-          "author": "hello@smashingmagazine.com (Marcus Herrmann)",
-          "description": "Web app accessibility appears difficult because it seems that there is little information on the subject available online. Let’s take a closer look at the accessible use of framework features, concrete Vue.js traits, as well as community initiatives and vetted patterns.",
-          "link": "https://smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/",
-          "publishedOn": "2021-07-16T13:00:00.000Z",
-          "wordCount": 4803,
-          "title": "Three Insights I Gained While Researching Vue.js Accessibility",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c3908803-4ddc-4820-8f4e-85e11b4ebbb7/three-insights-vuejs-accessibility.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },

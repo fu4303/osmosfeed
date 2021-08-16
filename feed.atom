@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fu4303.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-15T00:15:25.628Z</updated>
+    <updated>2021-08-16T00:15:10.610Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://fu4303.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://fu4303.github.io/osmosfeed/feed.atom"/>
@@ -1588,16 +1588,6 @@ The post ECMAScript proposal: JSON modules appeared first on CSS-Tricks. You can
         <summary type="html"><![CDATA[By adding visual elements to your tests, you can gain more options to add meaningful ways in maintaining a high level of quality for your app. Colby Fayock explains how.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Colby Fayock)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three Insights I Gained While Researching Vue.js Accessibility]]></title>
-        <id>https://smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/</id>
-        <link href="https://smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/"/>
-        <updated>2021-07-16T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Web app accessibility appears difficult because it seems that there is little information on the subject available online. Let’s take a closer look at the accessible use of framework features, concrete Vue.js traits, as well as community initiatives and vetted patterns.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Marcus Herrmann)</name>
         </author>
     </entry>
 </feed>
