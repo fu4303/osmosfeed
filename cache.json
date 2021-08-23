@@ -487,24 +487,6 @@
           "publishedOn": "2021-07-26T14:36:04.000Z",
           "wordCount": 550,
           "title": "Slinkity"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344019",
-          "author": "Farai Gandiya",
-          "description": "As the web gets more and more capable, developers are able to make richer online experiences. There are times, however, where some new web capabilities may not work as you would expect in the interest of usability, security and privacy.…\nThe post Web Features That May Not Work As You’d Expect appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/web-features-that-may-not-work-as-youd-expect/",
-          "publishedOn": "2021-07-23T15:12:11.000Z",
-          "wordCount": 2365,
-          "title": "Web Features That May Not Work As You’d Expect"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345209",
-          "author": "Chris Coyier",
-          "description": "Dave:\npetite-vue is a new cut of the Vue project specifically built with progressive enhancement in mind. At 5kb, petite-vue is a lightweight Alpine (or jQuery) alternative that can be “sprinkled” over your project requiring no extra bundling steps \n…\nThe post My petite-vue review appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://daverupert.com/2021/07/petite-vue-review/",
-          "publishedOn": "2021-07-23T15:10:08.000Z",
-          "wordCount": 1060,
-          "title": "My petite-vue review"
         }
       ]
     },
