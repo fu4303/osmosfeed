@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fu4303.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-17T00:17:13.554Z</updated>
+    <updated>2021-09-18T00:15:06.199Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://fu4303.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://fu4303.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Designing Beautiful Shadows in CSS]]></title>
+        <id>https://css-tricks.com/?p=352082</id>
+        <link href="https://www.joshwcomeau.com/css/designing-shadows/"/>
+        <updated>2021-09-17T22:49:39.000Z</updated>
+        <summary type="html"><![CDATA[My favorite kind of blog post is when someone takes a subject that I’ve spent all of five minutes considering and then says—no!—this is an enormous topic worthy of a dissertation. Look at all the things you can do with …
+The post Designing Beautiful Shadows in CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSV Format – How to Open a .csv File and Export it]]></title>
+        <id>613f3cc7852f4307d372c7e4</id>
+        <link href="https://www.freecodecamp.org/news/csv-format-how-to-open-a-csv-file-and-export-it/"/>
+        <updated>2021-09-17T18:22:47.000Z</updated>
+        <summary type="html"><![CDATA[You might have heard of a CSV file but what does it mean?  In this article, we are going to learn what a CSV file is, and how to open and export them using Microsoft Excel and Google Sheets.  What is a CSV file? CSV stands for Comma Separated Values.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computer Science Unleashed, Chapter 1: Connections]]></title>
+        <id>https://css-tricks.com/?p=350843</id>
+        <link href="https://css-tricks.com/computer-science-unleashed-chapter-1-connections/"/>
+        <updated>2021-09-17T15:27:49.000Z</updated>
+        <summary type="html"><![CDATA[Humans crave connections, and the advent of the digital revolution has empowered us to be more connected than ever before. The Internet has unleashed upon billions of people unprecedented economic and political freedom, as well as powerful means of control and domination. Yet, the vast majority of us are oblivious to its inner workings.
+The post Computer Science Unleashed, Chapter 1: Connections appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Wladston Viana Ferreira Filho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monetize Open-Source Software With Gatsby Functions And Stripe]]></title>
+        <id>https://smashingmagazine.com/2021/09/monetize-open-source-software-gatsby-functions-stripe/</id>
+        <link href="https://smashingmagazine.com/2021/09/monetize-open-source-software-gatsby-functions-stripe/"/>
+        <updated>2021-09-17T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Gatsby Functions provide front-end developers a way to write and use server-side code without the hassle of maintaining a server. If making money from open-source is of interest to you and your site isn’t built using Gatsby, this approach may well be the answer you were looking for.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Scanlon)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Start Freelancing – Tips for Launching a Successful Freelance Career]]></title>
         <id>613f6bc9852f4307d372ca83</id>
@@ -2340,60 +2382,6 @@ The post Implementing a single GraphQL across multiple data sources appeared fir
         <summary type="html"><![CDATA[The Java Native Interface allows Java code to call native libraries written in C and C++. It is helpful when you need to do something that cannot be accomplished with Java alone. We just released a massive 28-Hour course on the freeCodeCamp.org YouTube channel that will take you from]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Build An Ethical User Research Practice At Any Organization]]></title>
-        <id>https://smashingmagazine.com/2021/08/ethical-user-research-practice/</id>
-        <link href="https://smashingmagazine.com/2021/08/ethical-user-research-practice/"/>
-        <updated>2021-08-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Through a simple step-by-step approach, you can build an ethical practice within your organization that will ensure you’re respecting the dignity and welfare of your research participants.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Devin Harold)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“We had 90% unused CSS because everybody was afraid to touch the old stuff”]]></title>
-        <id>https://css-tricks.com/?p=348288</id>
-        <link href="https://css-tricks.com/we-had-90-unused-css-because-everybody-was-afraid-to-touch-the-old-stuff/"/>
-        <updated>2021-08-18T22:16:42.000Z</updated>
-        <summary type="html"><![CDATA[Over at the JS Party poundcast:
-[Kend C. Dodds]: […] ask anybody who’s done regular, old CSS and they’ll tell you that “I don’t know if it’s okay for me to change this, so I’m gonna duplicate it.” And 
-…
-The post “We had 90% unused CSS because everybody was afraid to touch the old stuff” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Portfolio Site with Next.js and TailwindCSS]]></title>
-        <id>61135a3472231b077cdad609</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-nextjs-tailwindcss/"/>
-        <updated>2021-08-18T18:02:02.000Z</updated>
-        <summary type="html"><![CDATA[If you're a web developer, it's important for you to have a personal portfolio website – especially when you're applying for jobs.  If you have a nice online portfolio site, you'll have a better chance of getting attention from recruiters than if you don't. Instead of sending your CV and asking]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Writing Tips for Software Developers – How to Become a Better Tech Writer]]></title>
-        <id>610d63b33306a507d1bff79f</id>
-        <link href="https://www.freecodecamp.org/news/writing-tips-software-developers/"/>
-        <updated>2021-08-18T16:48:00.000Z</updated>
-        <summary type="html"><![CDATA[You might think that software development is all about writing code, but that's not true. A huge part of the job is communicating with others. And as we all move towards more remote work, written communication is becoming increasingly important. “In their ﬁrst few years on the job, engineers spend]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Native Search vs. Jetpack Instant Search in Headless WordPress With Gatsby]]></title>
-        <id>https://css-tricks.com/?p=346147</id>
-        <link href="https://css-tricks.com/native-search-vs-jetpack-instant-search-in-headless-wordpress-with-gatsby/"/>
-        <updated>2021-08-18T14:46:09.000Z</updated>
-        <summary type="html"><![CDATA[Have you already tried using WordPress headlessly with Gatsby? If you haven’t, you might check this article around the new Gatsby source plugin for WordPress; gatsby-source-wordpress is the official source plugin introduced in March 2021 as a part of the …
-The post Native Search vs. Jetpack Instant Search in Headless WordPress With Gatsby appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Paulina Hetman</name>
         </author>
     </entry>
 </feed>
