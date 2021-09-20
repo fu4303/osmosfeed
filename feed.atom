@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fu4303.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-19T00:17:14.625Z</updated>
+    <updated>2021-09-20T00:16:36.229Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://fu4303.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://fu4303.github.io/osmosfeed/feed.atom"/>
@@ -2187,61 +2187,6 @@ html {
 While there is nothing too ground-breaking here, what’s interesting to note is that anything within the <details> element will have a content-box…]]></summary>
         <author>
             <name>Kitty Giraudel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Disambiguating Tailwind”]]></title>
-        <id>https://css-tricks.com/?p=350186</id>
-        <link href="https://css-tricks.com/disambiguating-tailwind/"/>
-        <updated>2021-08-20T19:59:47.000Z</updated>
-        <summary type="html"><![CDATA[I appreciated this bit of nuance from a post on Viget’s blog:
-There could be a whole article written about the many flavours of Tailwind, but broadly speaking those flavours are:
-1. Stock tailwind, ie. no changes to the 
-…
-The post “Disambiguating Tailwind” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Coding Interview – How to Stand Out and Ace the Challenges]]></title>
-        <id>611fd94c3bccf807612a4160</id>
-        <link href="https://www.freecodecamp.org/news/how-to-stand-out-during-your-react-coding-interview/"/>
-        <updated>2021-08-20T18:20:42.000Z</updated>
-        <summary type="html"><![CDATA[As a React developer, I have gone through my fair share of front-end coding interviews. Recently, I had the opportunity to experience the process from the other side – as an interviewer. Here is what I've learned. Coding interview usually involve a multi-step process where interviewers assess everything from basic technical]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Truly Reusable React Component from Scratch]]></title>
-        <id>611bf4f8e884de0752180979</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-truly-reusable-react-component-from-scratch/"/>
-        <updated>2021-08-20T17:54:40.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you will build an app with React. And you will learn how to create a truly reusable auto-suggestion component from scratch. This application will allow a user to search for a country in a list of countries. It will display matching suggestions below the input field for]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Line Break – How to Break a Line with the HTML &lt;br&gt; Tag]]></title>
-        <id>611f9b083bccf807612a3df0</id>
-        <link href="https://www.freecodecamp.org/news/html-line-break-how-to-break-a-line-with-the-html-br-tag/"/>
-        <updated>2021-08-20T17:21:23.000Z</updated>
-        <summary type="html"><![CDATA[When you're writing HTML, you often need to insert line breaks. A line break is essential in addresses, poems, or when text exceeds the available browser width. If you don't insert your own line breaks, then the text gets formatted in an odd way.  In this tutorial, I'm going to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating a Headless WordPress Site With Frontity]]></title>
-        <id>https://css-tricks.com/?p=346702</id>
-        <link href="https://css-tricks.com/creating-headless-wordpress-site-with-frontity/"/>
-        <updated>2021-08-20T14:59:30.000Z</updated>
-        <summary type="html"><![CDATA[Frontity is a WordPress-focused React-based server-side dynamic-rendering framework (phew!) that allows us to create fast headless websites. Chris has a good introduction to Frontity. I guess you could think of it like Next.js for WordPress. And while the demand …
-The post Creating a Headless WordPress Site With Frontity appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Ganesh Dahal</name>
         </author>
     </entry>
 </feed>

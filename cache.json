@@ -488,24 +488,6 @@
           "publishedOn": "2021-08-23T14:28:14.000Z",
           "wordCount": 832,
           "title": "Native JavaScript Routing?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=350186",
-          "author": "Chris Coyier",
-          "description": "I appreciated this bit of nuance from a post on Viget’s blog:\nThere could be a whole article written about the many flavours of Tailwind, but broadly speaking those flavours are:\n1. Stock tailwind, ie. no changes to the \n…\nThe post “Disambiguating Tailwind” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/disambiguating-tailwind/",
-          "publishedOn": "2021-08-20T19:59:47.000Z",
-          "wordCount": 585,
-          "title": "“Disambiguating Tailwind”"
-        },
-        {
-          "id": "https://css-tricks.com/?p=346702",
-          "author": "Ganesh Dahal",
-          "description": "Frontity is a WordPress-focused React-based server-side dynamic-rendering framework (phew!) that allows us to create fast headless websites. Chris has a good introduction to Frontity. I guess you could think of it like Next.js for WordPress. And while the demand …\nThe post Creating a Headless WordPress Site With Frontity appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/creating-headless-wordpress-site-with-frontity/",
-          "publishedOn": "2021-08-20T14:59:30.000Z",
-          "wordCount": 2966,
-          "title": "Creating a Headless WordPress Site With Frontity"
         }
       ]
     },
@@ -1949,33 +1931,6 @@
           "publishedOn": "2021-08-23T13:24:09.000Z",
           "wordCount": 50738,
           "title": "Programming for Beginners - How to Code with Python and C#"
-        },
-        {
-          "id": "611fd94c3bccf807612a4160",
-          "author": null,
-          "description": "As a React developer, I have gone through my fair share of front-end coding interviews. Recently, I had the opportunity to experience the process from the other side – as an interviewer. Here is what I've learned. Coding interview usually involve a multi-step process where interviewers assess everything from basic technical",
-          "link": "https://www.freecodecamp.org/news/how-to-stand-out-during-your-react-coding-interview/",
-          "publishedOn": "2021-08-20T18:20:42.000Z",
-          "wordCount": 1713,
-          "title": "React Coding Interview – How to Stand Out and Ace the Challenges"
-        },
-        {
-          "id": "611bf4f8e884de0752180979",
-          "author": null,
-          "description": "In this tutorial, you will build an app with React. And you will learn how to create a truly reusable auto-suggestion component from scratch. This application will allow a user to search for a country in a list of countries. It will display matching suggestions below the input field for",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-truly-reusable-react-component-from-scratch/",
-          "publishedOn": "2021-08-20T17:54:40.000Z",
-          "wordCount": 1935,
-          "title": "How to Create a Truly Reusable React Component from Scratch"
-        },
-        {
-          "id": "611f9b083bccf807612a3df0",
-          "author": null,
-          "description": "When you're writing HTML, you often need to insert line breaks. A line break is essential in addresses, poems, or when text exceeds the available browser width. If you don't insert your own line breaks, then the text gets formatted in an odd way.  In this tutorial, I'm going to",
-          "link": "https://www.freecodecamp.org/news/html-line-break-how-to-break-a-line-with-the-html-br-tag/",
-          "publishedOn": "2021-08-20T17:21:23.000Z",
-          "wordCount": 960,
-          "title": "HTML Line Break – How to Break a Line with the HTML &lt;br&gt; Tag"
         }
       ]
     },
