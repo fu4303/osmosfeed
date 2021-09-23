@@ -22,6 +22,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=352210",
+          "author": "Chris Coyier",
+          "description": "Container queries are going to solve this long-standing issue in web design where we want to make design choices based on the size of an element (the container) rather than the size of the entire page. So, if a container …\nThe post Container Units Should Be Pretty Handy appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/container-units-should-be-pretty-handy/",
+          "publishedOn": "2021-09-22T23:09:44.000Z",
+          "wordCount": 805,
+          "title": "Container Units Should Be Pretty Handy"
+        },
+        {
+          "id": "https://css-tricks.com/?p=352388",
+          "author": "Chris Coyier",
+          "description": "When I came up in web development (2005-2010 were formative years for me), one of the first lessons I learned was to have a clean foundation of HTML. “What Beautiful HTML Code Looks Like” is actually one of the most …\nThe post Twitter’s div Soup and Uglyfied CSS, Explained appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://giuseppegurgone.com/twitter-html/",
+          "publishedOn": "2021-09-22T21:09:12.000Z",
+          "wordCount": 1146,
+          "title": "Twitter’s div Soup and Uglyfied CSS, Explained"
+        },
+        {
+          "id": "https://css-tricks.com/?p=352074",
+          "author": "Sarthak Duggal",
+          "description": "Logging, on its own, is a key aspect of any application. Logging helps developers comprehend what it is that their code is doing. It also helps save developers hours of debugging work. This tutorial is about implementing logging in a …\nThe post How to Implement Logging in a Node.js Application With Pino-logger appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-to-implement-logging-in-a-node-js-application-with-pino-logger/",
+          "publishedOn": "2021-09-22T14:33:10.000Z",
+          "wordCount": 2540,
+          "title": "How to Implement Logging in a Node.js Application With Pino-logger"
+        },
+        {
           "id": "https://css-tricks.com/?p=352328",
           "author": "Chris Coyier",
           "description": "CSS is on a tear lately. Again, I’ve heard of a brand new thing I’ve never seen before, and again it’s via Miriam: CSS Conditionals. \n🎉 CSSWG just resolved to adopt @tabatkins when/else proposal into the next level of CSS \n…\nThe post Proposal for CSS @when appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -542,24 +569,6 @@
           "publishedOn": "2021-08-24T14:30:50.000Z",
           "wordCount": 1860,
           "title": "Introduction to the Solid JavaScript Library"
-        },
-        {
-          "id": "https://css-tricks.com/?p=350264",
-          "author": "Chris Coyier",
-          "description": "You can’t just do @media (prefers-reduced-data: no-preference) alone because, as Kilian Valkhof says:\n[…] that would be false if either there was no support (since the browser wouldn’t understand the media query) or if it was supported but the \n…\nThe post Detecting Media Query Support in CSS and JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://kilianvalkhof.com/2021/web/detecting-media-query-support-in-css-and-javascript/",
-          "publishedOn": "2021-08-23T17:16:38.000Z",
-          "wordCount": 1292,
-          "title": "Detecting Media Query Support in CSS and JavaScript"
-        },
-        {
-          "id": "https://css-tricks.com/?p=350160",
-          "author": "Chris Coyier",
-          "description": "We can update the URL in JavaScript. We’ve got the APIs pushState and replaceState: \n// Adds to browser history\nhistory.pushState({}, \"About Page\", \"/about\");\n\n// Doesn't\nhistory.replaceState({}, \"About Page\", \"/about\");\nJavaScript is also capable of replacing any content in the …\nThe post Native JavaScript Routing? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/native-javascript-routing/",
-          "publishedOn": "2021-08-23T14:28:14.000Z",
-          "wordCount": 832,
-          "title": "Native JavaScript Routing?"
         }
       ]
     },
@@ -568,6 +577,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/09/css-head-tag/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "We love little useful tools and techniques to help folks get their work done better and faster. Today, we’d love to shine the spotlights on a little helper that helps spot common performance bottlenecks easily: [ct.css](https://csswizardry.com/ct/).",
+          "link": "https://smashingmagazine.com/2021/09/css-head-tag/",
+          "publishedOn": "2021-09-22T15:00:00.000Z",
+          "wordCount": 725,
+          "title": "Getting Your `head` Straight: A New CSS Performance Diagnostics Snippet",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b5bbafda-ded4-4bd3-bb2a-8c4188693d30/head-2.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/09/mouseless-development-environment/",
           "author": "hello@smashingmagazine.com (Matthieu Cneude)",
@@ -925,6 +948,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "612780233bccf807612a8955",
+          "author": null,
+          "description": "Today we're going to learn how to do form validation in JavaScript. We'l also add images and media queries to build out the entire project and keep it as a portfolio.   Here's the project demo that we're gonna build 👇 Desktop designHere's a small sample of how the form will work",
+          "link": "https://www.freecodecamp.org/news/learn-javascript-form-validation-by-making-a-form/",
+          "publishedOn": "2021-09-22T18:33:54.000Z",
+          "wordCount": 1981,
+          "title": "Learn JavaScript Form Validation – Build a JS Project for Beginners ✨"
+        },
+        {
+          "id": "614b18f59456b407b87105b2",
+          "author": null,
+          "description": "In HTML, the font you choose will play a major role in the look and feel of your web pages.  You get to pick the font's color, weight, size, and so on. And all these features make your websites and apps look better and more presentable to the user.  With",
+          "link": "https://www.freecodecamp.org/news/html-font-size-how-to-change-text-size-using-inline-css-style/",
+          "publishedOn": "2021-09-22T18:02:22.000Z",
+          "wordCount": 796,
+          "title": "HTML Font Size – How to Change Text Size Using Inline CSS Style"
+        },
+        {
+          "id": "612203ef3bccf807612a5752",
+          "author": null,
+          "description": "When you're coding in Python, you can use the enumerate() function and a for loop  to print out each value of an iterable with a counter. In this article, I will show you how to use Python's enumerate() function with a for loop and explain why it is a better",
+          "link": "https://www.freecodecamp.org/news/python-enumerate-python-enum-for-loop-index-example/",
+          "publishedOn": "2021-09-22T17:53:56.000Z",
+          "wordCount": 906,
+          "title": "Python Enumerate – Python Enum For Loop Index Example"
+        },
+        {
+          "id": "614b2a529456b407b8710629",
+          "author": null,
+          "description": "Shiny is an R package that makes it easy to build interactive and data-driven web apps straight from R. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use R Shiny. Dr. Chanin Nantasenamat, also known as the Data Professor, teaches this",
+          "link": "https://www.freecodecamp.org/news/build-interactive-data-driven-web-apps-with-r-shiny/",
+          "publishedOn": "2021-09-22T13:17:46.000Z",
+          "wordCount": 13763,
+          "title": "Build Interactive Data-Driven Web Apps With R Shiny"
+        },
         {
           "id": "6114c92f72231b077cdae3fa",
           "author": null,
@@ -2067,69 +2126,6 @@
           "publishedOn": "2021-08-24T15:43:51.000Z",
           "wordCount": 18594,
           "title": "Create an Android App With Kotlin and Jetpack Compose"
-        },
-        {
-          "id": "6107c03b3306a507d1bfc55b",
-          "author": null,
-          "description": "In a relational database, all information should only be present once. But you might have information that's separated into different tables that's related to each other.  And you might want to put this related information together to analyse its data – that is, you might want to join all the data",
-          "link": "https://www.freecodecamp.org/news/sql-join-types-inner-join-vs-outer-join-example/",
-          "publishedOn": "2021-08-24T00:08:46.000Z",
-          "wordCount": 1459,
-          "title": "SQL Join Types – Inner Join VS Outer Join Example"
-        },
-        {
-          "id": "6053033528094f59be257c91",
-          "author": null,
-          "description": "In this article, I will talk about how to get started with your first freeCodeCamp project and provide some tips along the way.  Here is what we will cover: Understanding the instructionsWhat is CodePen and how do I use it?Do I have to use CodePen or can I use",
-          "link": "https://www.freecodecamp.org/news/how-to-get-started-with-the-fcc-tribute-page/",
-          "publishedOn": "2021-08-23T21:22:42.000Z",
-          "wordCount": 1504,
-          "title": "freeCodeCamp Tribute Page Project – Tips for Getting Started"
-        },
-        {
-          "id": "6120eac83bccf807612a4bd6",
-          "author": null,
-          "description": "We live in a world where things are constantly changing. So if you want to stay up to date on what's happening, you'll want a good News app.  To help you learn some cool tech and stay current, in this blog post we'll build a News Application for Android using",
-          "link": "https://www.freecodecamp.org/news/build-an-android-news-app-with-react-native-and-native-base/",
-          "publishedOn": "2021-08-23T18:23:27.000Z",
-          "wordCount": 2974,
-          "title": "How to Build an Android News App with React Native and Native Base"
-        },
-        {
-          "id": "611a940ae884de075217f649",
-          "author": null,
-          "description": "As you may know, I've been a fan of Replit since way back in 2012. I used early versions of the website when I was learning to code.  For me, Replit was a place to code my solutions for Project Euler problems, and to practice my Python and JavaScript skills.",
-          "link": "https://www.freecodecamp.org/news/announcing-rust-course-replit-web/",
-          "publishedOn": "2021-08-23T17:03:24.000Z",
-          "wordCount": 749,
-          "title": "We&#x27;re Building New Courses on Rust and Python + the Replit.web Framework"
-        },
-        {
-          "id": "6107c04a3306a507d1bfc561",
-          "author": null,
-          "description": "Being able to do complex queries can be really useful in SQL. In this article, we'll look at how you can use the Contains String query. SQL PatternsSQL patterns are useful for pattern matching, instead of using literal comparisons. They have a more limited syntax than RegEx, but they're more",
-          "link": "https://www.freecodecamp.org/news/sql-contains-string-sql-regex-example-query/",
-          "publishedOn": "2021-08-23T15:30:47.000Z",
-          "wordCount": 2778,
-          "title": "SQL Contains String – SQL RegEx Example Query"
-        },
-        {
-          "id": "61064ad03306a507d1bfc001",
-          "author": null,
-          "description": "If you are new to programming, you might have heard of the term Front End Development. But what does that mean?  In this article, I will explain what Front End Development is, what skills you need to become a Front End Developer, and tips for landing a job.  What is",
-          "link": "https://www.freecodecamp.org/news/front-end-developer-what-is-front-end-development-explained-in-plain-english/",
-          "publishedOn": "2021-08-23T15:30:27.000Z",
-          "wordCount": 1362,
-          "title": "Front End Developer – What is Front End Development, Explained in Plain English"
-        },
-        {
-          "id": "6116e52a72231b077cdafcf6",
-          "author": null,
-          "description": "When it comes to learning how to write computer programs, it can be hard to figure out where to start.  Well, look no further. We just released a full course that teaches basic programming skills in both Python and C#. This course is for absolute beginners. One of the best",
-          "link": "https://www.freecodecamp.org/news/programming-for-beginners-how-to-code-with-python-and-c-sharp/",
-          "publishedOn": "2021-08-23T13:24:09.000Z",
-          "wordCount": 50738,
-          "title": "Programming for Beginners - How to Code with Python and C#"
         }
       ]
     },
@@ -2144,6 +2140,15 @@
       "feedUrl": "https://nicolas-hoizey.com/feeds/links.xml",
       "siteUrl": "https://nicolas-hoizey.com/feeds/links.xml",
       "articles": [
+        {
+          "id": "https://nicolas-hoizey.com/links/2021/09/22/the-ethics-of-web-performance/",
+          "author": null,
+          "description": "https://timkadlec.com/remembers/2019-01-09-the-ethics-of-performance/\n        \n\n        \nThe business models that support much of the content on the web don’t favor better performance. Nor does the culture of many organizations who end up prioritizing the next feature over improving things like performance or accessibility or security.",
+          "link": "https://nicolas-hoizey.com/links/2021/09/22/the-ethics-of-web-performance/",
+          "publishedOn": "2021-09-22T16:53:36.000Z",
+          "wordCount": 122,
+          "title": "The Ethics of Web Performance"
+        },
         {
           "id": "https://nicolas-hoizey.com/links/2021/09/16/web-quality-assurance-from-user-requirements-to-web-risk-management/",
           "author": null,
@@ -2168,17 +2173,7 @@
       "title": "Kitty Giraudel",
       "feedUrl": "https://kittygiraudel.com/rss/index.xml",
       "siteUrl": "https://kittygiraudel.com",
-      "articles": [
-        {
-          "id": "https://kittygiraudel.com/2021/08/24/from-cra-to-next/",
-          "author": null,
-          "description": "I recently moved a significant codebase from Create-React-App (CRA for short) to Next and thought I would share my experience, because believe me or not, it was quite a journey (and not necessarily a pleasant one).\nThere are plenty reasons why you might want to move to Next from a CRA app. It provides server-side rendering (SSR), and even incremental static regeneration (ISR) when hosted on Vercel. It’s an encompassing framework with built-in routing, image optimization, development environment, and more.\nThis post is a high-level walkthrough of things to deal with to finalized the migration from CRA to Next. Here’s what we’ll cover:\nHTML boilerplate\nHead content\nRouting\nCode splitting\nStyling\nCSR/SSR\nLinting\nRunning both systems\nWrapping up\nHTML boilerplate\nCRA uses an index.html file in …",
-          "link": "https://kittygiraudel.com/2021/08/24/from-cra-to-next/",
-          "publishedOn": "2021-08-24T00:00:00.000Z",
-          "wordCount": 1521,
-          "title": "From Create-React-App to Next"
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.11.1"

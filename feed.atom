@@ -2,10 +2,107 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fu4303.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-22T00:17:03.993Z</updated>
+    <updated>2021-09-23T00:16:28.915Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://fu4303.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://fu4303.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Container Units Should Be Pretty Handy]]></title>
+        <id>https://css-tricks.com/?p=352210</id>
+        <link href="https://css-tricks.com/container-units-should-be-pretty-handy/"/>
+        <updated>2021-09-22T23:09:44.000Z</updated>
+        <summary type="html"><![CDATA[Container queries are going to solve this long-standing issue in web design where we want to make design choices based on the size of an element (the container) rather than the size of the entire page. So, if a container …
+The post Container Units Should Be Pretty Handy appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter’s div Soup and Uglyfied CSS, Explained]]></title>
+        <id>https://css-tricks.com/?p=352388</id>
+        <link href="https://giuseppegurgone.com/twitter-html/"/>
+        <updated>2021-09-22T21:09:12.000Z</updated>
+        <summary type="html"><![CDATA[When I came up in web development (2005-2010 were formative years for me), one of the first lessons I learned was to have a clean foundation of HTML. “What Beautiful HTML Code Looks Like” is actually one of the most …
+The post Twitter’s div Soup and Uglyfied CSS, Explained appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn JavaScript Form Validation – Build a JS Project for Beginners ✨]]></title>
+        <id>612780233bccf807612a8955</id>
+        <link href="https://www.freecodecamp.org/news/learn-javascript-form-validation-by-making-a-form/"/>
+        <updated>2021-09-22T18:33:54.000Z</updated>
+        <summary type="html"><![CDATA[Today we're going to learn how to do form validation in JavaScript. We'l also add images and media queries to build out the entire project and keep it as a portfolio.   Here's the project demo that we're gonna build 👇 Desktop designHere's a small sample of how the form will work]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Font Size – How to Change Text Size Using Inline CSS Style]]></title>
+        <id>614b18f59456b407b87105b2</id>
+        <link href="https://www.freecodecamp.org/news/html-font-size-how-to-change-text-size-using-inline-css-style/"/>
+        <updated>2021-09-22T18:02:22.000Z</updated>
+        <summary type="html"><![CDATA[In HTML, the font you choose will play a major role in the look and feel of your web pages.  You get to pick the font's color, weight, size, and so on. And all these features make your websites and apps look better and more presentable to the user.  With]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Enumerate – Python Enum For Loop Index Example]]></title>
+        <id>612203ef3bccf807612a5752</id>
+        <link href="https://www.freecodecamp.org/news/python-enumerate-python-enum-for-loop-index-example/"/>
+        <updated>2021-09-22T17:53:56.000Z</updated>
+        <summary type="html"><![CDATA[When you're coding in Python, you can use the enumerate() function and a for loop  to print out each value of an iterable with a counter. In this article, I will show you how to use Python's enumerate() function with a for loop and explain why it is a better]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ethics of Web Performance]]></title>
+        <id>https://nicolas-hoizey.com/links/2021/09/22/the-ethics-of-web-performance/</id>
+        <link href="https://nicolas-hoizey.com/links/2021/09/22/the-ethics-of-web-performance/"/>
+        <updated>2021-09-22T16:53:36.000Z</updated>
+        <summary type="html"><![CDATA[https://timkadlec.com/remembers/2019-01-09-the-ethics-of-performance/
+        
+
+        
+The business models that support much of the content on the web don’t favor better performance. Nor does the culture of many organizations who end up prioritizing the next feature over improving things like performance or accessibility or security.]]></summary>
+        <author>
+            <name>Nicolas Hoizey - Links</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Your `head` Straight: A New CSS Performance Diagnostics Snippet]]></title>
+        <id>https://smashingmagazine.com/2021/09/css-head-tag/</id>
+        <link href="https://smashingmagazine.com/2021/09/css-head-tag/"/>
+        <updated>2021-09-22T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We love little useful tools and techniques to help folks get their work done better and faster. Today, we’d love to shine the spotlights on a little helper that helps spot common performance bottlenecks easily: [ct.css](https://csswizardry.com/ct/).]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement Logging in a Node.js Application With Pino-logger]]></title>
+        <id>https://css-tricks.com/?p=352074</id>
+        <link href="https://css-tricks.com/how-to-implement-logging-in-a-node-js-application-with-pino-logger/"/>
+        <updated>2021-09-22T14:33:10.000Z</updated>
+        <summary type="html"><![CDATA[Logging, on its own, is a key aspect of any application. Logging helps developers comprehend what it is that their code is doing. It also helps save developers hours of debugging work. This tutorial is about implementing logging in a …
+The post How to Implement Logging in a Node.js Application With Pino-logger appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Sarthak Duggal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Interactive Data-Driven Web Apps With R Shiny]]></title>
+        <id>614b2a529456b407b8710629</id>
+        <link href="https://www.freecodecamp.org/news/build-interactive-data-driven-web-apps-with-r-shiny/"/>
+        <updated>2021-09-22T13:17:46.000Z</updated>
+        <summary type="html"><![CDATA[Shiny is an R package that makes it easy to build interactive and data-driven web apps straight from R. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use R Shiny. Dr. Chanin Nantasenamat, also known as the Data Professor, teaches this]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Proposal for CSS @when]]></title>
         <id>https://css-tricks.com/?p=352328</id>
@@ -2260,129 +2357,6 @@ The post Introduction to the Solid JavaScript Library appeared first on CSS-Tric
         <summary type="html"><![CDATA[In this article, you’ll learn how to save hours of tedious work of writing, updating, and correcting technical documentation. In this article, you will learn how to automate your documentation workflow with Vale and GitHub Actions.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Portia Burton)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL Join Types – Inner Join VS Outer Join Example]]></title>
-        <id>6107c03b3306a507d1bfc55b</id>
-        <link href="https://www.freecodecamp.org/news/sql-join-types-inner-join-vs-outer-join-example/"/>
-        <updated>2021-08-24T00:08:46.000Z</updated>
-        <summary type="html"><![CDATA[In a relational database, all information should only be present once. But you might have information that's separated into different tables that's related to each other.  And you might want to put this related information together to analyse its data – that is, you might want to join all the data]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Create-React-App to Next]]></title>
-        <id>https://kittygiraudel.com/2021/08/24/from-cra-to-next/</id>
-        <link href="https://kittygiraudel.com/2021/08/24/from-cra-to-next/"/>
-        <updated>2021-08-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I recently moved a significant codebase from Create-React-App (CRA for short) to Next and thought I would share my experience, because believe me or not, it was quite a journey (and not necessarily a pleasant one).
-There are plenty reasons why you might want to move to Next from a CRA app. It provides server-side rendering (SSR), and even incremental static regeneration (ISR) when hosted on Vercel. It’s an encompassing framework with built-in routing, image optimization, development environment, and more.
-This post is a high-level walkthrough of things to deal with to finalized the migration from CRA to Next. Here’s what we’ll cover:
-HTML boilerplate
-Head content
-Routing
-Code splitting
-Styling
-CSR/SSR
-Linting
-Running both systems
-Wrapping up
-HTML boilerplate
-CRA uses an index.html file in …]]></summary>
-        <author>
-            <name>Kitty Giraudel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[freeCodeCamp Tribute Page Project – Tips for Getting Started]]></title>
-        <id>6053033528094f59be257c91</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-started-with-the-fcc-tribute-page/"/>
-        <updated>2021-08-23T21:22:42.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I will talk about how to get started with your first freeCodeCamp project and provide some tips along the way.  Here is what we will cover: Understanding the instructionsWhat is CodePen and how do I use it?Do I have to use CodePen or can I use]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Android News App with React Native and Native Base]]></title>
-        <id>6120eac83bccf807612a4bd6</id>
-        <link href="https://www.freecodecamp.org/news/build-an-android-news-app-with-react-native-and-native-base/"/>
-        <updated>2021-08-23T18:23:27.000Z</updated>
-        <summary type="html"><![CDATA[We live in a world where things are constantly changing. So if you want to stay up to date on what's happening, you'll want a good News app.  To help you learn some cool tech and stay current, in this blog post we'll build a News Application for Android using]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Detecting Media Query Support in CSS and JavaScript]]></title>
-        <id>https://css-tricks.com/?p=350264</id>
-        <link href="https://kilianvalkhof.com/2021/web/detecting-media-query-support-in-css-and-javascript/"/>
-        <updated>2021-08-23T17:16:38.000Z</updated>
-        <summary type="html"><![CDATA[You can’t just do @media (prefers-reduced-data: no-preference) alone because, as Kilian Valkhof says:
-[…] that would be false if either there was no support (since the browser wouldn’t understand the media query) or if it was supported but the 
-…
-The post Detecting Media Query Support in CSS and JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We&#x27;re Building New Courses on Rust and Python + the Replit.web Framework]]></title>
-        <id>611a940ae884de075217f649</id>
-        <link href="https://www.freecodecamp.org/news/announcing-rust-course-replit-web/"/>
-        <updated>2021-08-23T17:03:24.000Z</updated>
-        <summary type="html"><![CDATA[As you may know, I've been a fan of Replit since way back in 2012. I used early versions of the website when I was learning to code.  For me, Replit was a place to code my solutions for Project Euler problems, and to practice my Python and JavaScript skills.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL Contains String – SQL RegEx Example Query]]></title>
-        <id>6107c04a3306a507d1bfc561</id>
-        <link href="https://www.freecodecamp.org/news/sql-contains-string-sql-regex-example-query/"/>
-        <updated>2021-08-23T15:30:47.000Z</updated>
-        <summary type="html"><![CDATA[Being able to do complex queries can be really useful in SQL. In this article, we'll look at how you can use the Contains String query. SQL PatternsSQL patterns are useful for pattern matching, instead of using literal comparisons. They have a more limited syntax than RegEx, but they're more]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Front End Developer – What is Front End Development, Explained in Plain English]]></title>
-        <id>61064ad03306a507d1bfc001</id>
-        <link href="https://www.freecodecamp.org/news/front-end-developer-what-is-front-end-development-explained-in-plain-english/"/>
-        <updated>2021-08-23T15:30:27.000Z</updated>
-        <summary type="html"><![CDATA[If you are new to programming, you might have heard of the term Front End Development. But what does that mean?  In this article, I will explain what Front End Development is, what skills you need to become a Front End Developer, and tips for landing a job.  What is]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Native JavaScript Routing?]]></title>
-        <id>https://css-tricks.com/?p=350160</id>
-        <link href="https://css-tricks.com/native-javascript-routing/"/>
-        <updated>2021-08-23T14:28:14.000Z</updated>
-        <summary type="html"><![CDATA[We can update the URL in JavaScript. We’ve got the APIs pushState and replaceState: 
-// Adds to browser history
-history.pushState({}, "About Page", "/about");
-
-// Doesn't
-history.replaceState({}, "About Page", "/about");
-JavaScript is also capable of replacing any content in the …
-The post Native JavaScript Routing? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Programming for Beginners - How to Code with Python and C#]]></title>
-        <id>6116e52a72231b077cdafcf6</id>
-        <link href="https://www.freecodecamp.org/news/programming-for-beginners-how-to-code-with-python-and-c-sharp/"/>
-        <updated>2021-08-23T13:24:09.000Z</updated>
-        <summary type="html"><![CDATA[When it comes to learning how to write computer programs, it can be hard to figure out where to start.  Well, look no further. We just released a full course that teaches basic programming skills in both Python and C#. This course is for absolute beginners. One of the best]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
