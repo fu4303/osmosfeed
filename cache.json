@@ -22,6 +22,42 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=352287",
+          "author": "Chris Coyier",
+          "description": "Say you have a z-index bug. Something is being covered up by something else. In my experience, a typical solution is to put position: relative on the thing so z-index works in the first place, and maybe rejigger the z-index…\nThe post Systems for z-index appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/systems-for-z-index/",
+          "publishedOn": "2021-09-24T21:19:49.000Z",
+          "wordCount": 984,
+          "title": "Systems for z-index"
+        },
+        {
+          "id": "https://css-tricks.com/?p=352533",
+          "author": "Chris Coyier",
+          "description": "Big thoughts on where the industry is headed from Shawn Wang:\nAdvancements in two fields — programming languages and cloud infrastructure — will converge in a single paradigm: where all resources required by a program will be automatically provisioned, and \n…\nThe post The Self Provisioning Runtime appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.swyx.io/self-provisioning-runtime/",
+          "publishedOn": "2021-09-24T18:56:43.000Z",
+          "wordCount": 2149,
+          "title": "The Self Provisioning Runtime"
+        },
+        {
+          "id": "https://css-tricks.com/?p=352342",
+          "author": "Eric Markfield",
+          "description": "Let’s say we want to add something to a webpage after the initial load. JavaScript gives us a variety of tools. Perhaps you’ve used some of them, like append, appendChild, insertAdjacentHTML, or innerHTML.\nThe difficult thing …\nThe post Comparing Methods for Appending and Inserting With JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/comparing-methods-for-appending-and-inserting-with-javascript/",
+          "publishedOn": "2021-09-24T14:34:59.000Z",
+          "wordCount": 2251,
+          "title": "Comparing Methods for Appending and Inserting With JavaScript"
+        },
+        {
+          "id": "https://css-tricks.com/?p=351975",
+          "author": "Chris Coyier",
+          "description": "Frontend Masters has been our learning partner for a couple of years now. I love it. If you need structured learning to up your web development skills, Frontend Masters is the place. It works so well because we don’t offer …\nThe post Our Learning Partner: Frontend Masters appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/our-learning-partner-frontend-masters-2/",
+          "publishedOn": "2021-09-24T14:34:05.000Z",
+          "wordCount": 612,
+          "title": "Our Learning Partner: Frontend Masters"
+        },
+        {
           "id": "https://css-tricks.com/?p=352279",
           "author": "Chris Coyier",
           "description": "Whatever Google wants it to be. I always thought it was exactly what your <title> element was. Perhaps in lieu of that, what the first <h1> on the page is. But recently I noticed some pages on this site that …\nThe post What is Your Page Title on a Google Search Engine Results Page? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -551,24 +587,6 @@
           "publishedOn": "2021-08-26T14:35:03.000Z",
           "wordCount": 2061,
           "title": "How I Made a Generator for SVG Loaders With Sass and SMIL Options"
-        },
-        {
-          "id": "https://css-tricks.com/?p=350311",
-          "author": "Chris Coyier",
-          "description": "A question:\nIf you copy a code sample that uses two-space indentation and you want to convert it to four-space indentation, what’s the *fastest* and easiest option?\nMatt Stauffer, Twitter\n\nI wrote about doing this in Sublime Text a …\nThe post One Way to Convert Code Indentation appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/one-way-to-convert-code-indentation/",
-          "publishedOn": "2021-08-25T22:34:04.000Z",
-          "wordCount": 695,
-          "title": "One Way to Convert Code Indentation"
-        },
-        {
-          "id": "https://css-tricks.com/?p=346612",
-          "author": "Eli Penner",
-          "description": "Today’s websites are overflowing with animations—often too many. They get in the way of the content and slow down our busy users. But at the same time: they’re wonderful. They bring websites to life, are fun to implement and …\nThe post Stealing Game Animation Techniques to Engage Users appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/stealing-game-animation-techniques-to-engage-users/",
-          "publishedOn": "2021-08-25T14:55:17.000Z",
-          "wordCount": 2905,
-          "title": "Stealing Game Animation Techniques to Engage Users"
         }
       ]
     },
@@ -577,6 +595,34 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/09/lessons-learned-ecommerce-nextjs-case-study/",
+          "author": "hello@smashingmagazine.com (Jonne Kats)",
+          "description": "We made the switch from a more traditional integrated e-commerce platform to a headless platform with Next.js. Here are the most important lessons learned while rebuilding a large e-commerce site with Next.js.",
+          "link": "https://smashingmagazine.com/2021/09/lessons-learned-ecommerce-nextjs-case-study/",
+          "publishedOn": "2021-09-24T10:00:00.000Z",
+          "wordCount": 3791,
+          "title": "Rebuilding A Large E-Commerce Website With Next.js (Case Study)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5f1d9e62-ec85-435a-8899-56ac48b4190b/lessons-learned-ecommerce-nextjs.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/09/smashing-workshop-frustrating-design-patterns/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "You’ve seen them before. Confusing and frustrating design patterns that seem to be chasing you everywhere you go, from one website to another. It’s time to fix them for good in a [free Smashing online workshop](https://smashingconf.com/online-workshops/workshops/vitaly-friedman-frustrating-patterns/) next week.",
+          "link": "https://smashingmagazine.com/2021/09/smashing-workshop-frustrating-design-patterns/",
+          "publishedOn": "2021-09-24T06:50:00.000Z",
+          "wordCount": 784,
+          "title": "Free Online Workshop: Frustrating Design Patterns And How To Fix Them",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/76262eaa-9498-4682-a320-6a7469bef697/sept27-workshop.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/09/simplifying-form-styles-accent-color/",
           "author": "hello@smashingmagazine.com (Michelle Barker)",
@@ -912,20 +958,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/08/against-privacy-infringement-web/",
-          "author": "hello@smashingmagazine.com (Robin Berjon)",
-          "description": "The Web is still wrestling with issues we take for granted offline, privacy chief among them. These are steps The New York Times took to protect users’ data, and how you can too.",
-          "link": "https://smashingmagazine.com/2021/08/against-privacy-infringement-web/",
-          "publishedOn": "2021-08-26T08:00:00.000Z",
-          "wordCount": 3770,
-          "title": "Pushing Back Against Privacy Infringement On The Web",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fbab17a6-483b-4e8e-b9f1-9ab583202df1/against-privacy-infringement-web.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -934,6 +966,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "614df185ccc97307eb2bc079",
+          "author": null,
+          "description": "Buttons are an essential part of websites. You need them for various functionalities, from submitting information and getting access to more content to linking to different parts of the web page and other websites.  HTML gives you several ways to add buttons to your website – with the button tag, the",
+          "link": "https://www.freecodecamp.org/news/html-button-type-how-to-add-buttons-to-your-website/",
+          "publishedOn": "2021-09-24T18:06:24.000Z",
+          "wordCount": 1170,
+          "title": "HTML Button Type – How to Add Buttons to your Website"
+        },
+        {
+          "id": "614b428f9456b407b871068a",
+          "author": null,
+          "description": "Google Docs is one of the most popular text processors.  It has many features available to help you visually enhance your writing and make specific parts stand out more.  One of the ways you can add more functionality to your documents is by adding a textbox.  A textbox helps make",
+          "link": "https://www.freecodecamp.org/news/how-to-insert-a-text-box-in-google-docs-add-textbox-tutorial/",
+          "publishedOn": "2021-09-24T17:42:48.000Z",
+          "wordCount": 1026,
+          "title": "How to Insert a Text Box in Google Docs – Add Textbox Tutorial"
+        },
+        {
+          "id": "6106568e3306a507d1bfc0f6",
+          "author": null,
+          "description": "Model–View–Controller is a popular software pattern used to break up the logic of your application into three different components.  In this article, I will break down the three components behind the MVC pattern, provide some history, and show you how it can be used in an application. History",
+          "link": "https://www.freecodecamp.org/news/mvc-architecture-what-is-a-model-view-controller-framework/",
+          "publishedOn": "2021-09-24T17:36:14.000Z",
+          "wordCount": 1275,
+          "title": "MVC Architecture – What is a Model View Controller Framework?"
+        },
         {
           "id": "614c72939456b407b8710f0a",
           "author": null,
@@ -2013,51 +2072,6 @@
           "publishedOn": "2021-08-26T13:59:54.000Z",
           "wordCount": 5274,
           "title": "Make a Discord Chat Bot That Talks Like Rick Sanchez"
-        },
-        {
-          "id": "612114773bccf807612a5084",
-          "author": null,
-          "description": "In 2012, Harvard Business Review named data science the sexiest job of the 21st century. But if you want to get a job as a data scientist, you'll need to go through a tough interview process. During data science job interviews, the interviewer will likely ask questions from different data",
-          "link": "https://www.freecodecamp.org/news/23-common-data-science-interview-questions-for-beginners/",
-          "publishedOn": "2021-08-25T21:39:37.000Z",
-          "wordCount": 2157,
-          "title": "Data Science Interview Questions for Beginners"
-        },
-        {
-          "id": "612633433bccf807612a7bf4",
-          "author": null,
-          "description": "JSON stands for JavaScript Object Notation. A JSON file has .json as its extension and the data inside are represented in a key:value pair, just like a traditional JavaScript object.  JSON and objects aren't exactly the same, though. The core difference is that the key in JSON must be",
-          "link": "https://www.freecodecamp.org/news/what-is-a-json-file-example-javascript-code/",
-          "publishedOn": "2021-08-25T20:04:19.000Z",
-          "wordCount": 1085,
-          "title": "What is a JSON File? Example JavaScript Code"
-        },
-        {
-          "id": "611e7d553bccf807612a33ec",
-          "author": null,
-          "description": "IntroductionAre you curious about the IoT (Internet of Things?) Have you always wanted to try to make your own robot, smart mirror, or bird feeder camera? What about building a computer for a fraction of the cost of a commercially available machine? If you said yes to any of these",
-          "link": "https://www.freecodecamp.org/news/what-is-raspberry-pi-specs-and-models-2021-guide/",
-          "publishedOn": "2021-08-25T16:17:20.000Z",
-          "wordCount": 1210,
-          "title": "What is Raspberry Pi? Specs and Models (2021 Guide)"
-        },
-        {
-          "id": "61064a8d3306a507d1bfbff9",
-          "author": null,
-          "description": "JavaScript was created over 26 years ago and is currently one of the most popular programming languages. But what is JavaScript?  JavaScript is used with HTML and CSS to create dynamic and interactive web pages and mobile applications. We often call it one of the building blocks of web development.",
-          "link": "https://www.freecodecamp.org/news/what-is-javascript-javascript-code-explained-in-plain-english/",
-          "publishedOn": "2021-08-25T15:44:41.000Z",
-          "wordCount": 1396,
-          "title": "What is JavaScript? JavaScript Code Explained in Plain English"
-        },
-        {
-          "id": "6063b8f89618b008528a9d7d",
-          "author": null,
-          "description": "Today we're gonna learn how to use the CSS units EM, REM, VW and VH by working through some practical examples. We'll also see how to make responsive websites with these units.  Let's start. 💖 Table of ContentsWhy learn relative units?What are REM Units?How to make responsive websites with",
-          "link": "https://www.freecodecamp.org/news/learn-css-units-em-rem-vh-vw-with-code-examples/",
-          "publishedOn": "2021-08-25T15:34:28.000Z",
-          "wordCount": 1563,
-          "title": "Learn CSS Units – Em, Rem, VH, and VW with Code Examples ✨✨"
         }
       ]
     },
