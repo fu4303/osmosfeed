@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fu4303.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-26T00:17:58.876Z</updated>
-    <generator>osmosfeed 1.11.1</generator>
+    <updated>2021-09-27T00:16:46.191Z</updated>
+    <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://fu4303.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://fu4303.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[v1.11.2]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2"/>
+        <updated>2021-09-26T18:45:39.000Z</updated>
+        <summary type="html"><![CDATA[Fixed: unicode characters in URL caused download error
+Fixed: project root npm install error
+Added: unit test library
+Chore: Dependency updates
+Thank you: @CaptNo1]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Systems for z-index]]></title>
         <id>https://css-tricks.com/?p=352287</id>
@@ -2125,68 +2139,6 @@ The post Exploring the CSS Paint API: Blob Animation appeared first on CSS-Trick
         <summary type="html"><![CDATA[There are many CSS optimization techniques to tackle potential file size and performance issues. Let’s take a look at some of them. After all, if deploying the refactored codebase causes loading or performance issues, it will result in less traffic and revenue, which might leave the management and project managers dissatisfied.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My tiny side project has had more impact than my decade in the software industry]]></title>
-        <id>https://css-tricks.com/?p=350782</id>
-        <link href="https://mike.zwobble.org/2021/08/side-projects-vs-industry/"/>
-        <updated>2021-08-27T19:14:10.000Z</updated>
-        <summary type="html"><![CDATA[That’s a heartwrenching title from Michael Williamson. I believe it though. It’s kinda like a maximized version of the blogging phenomenon where if you work on a post for weeks it’ll flop compared to a post that’s some dumb 20-minute …
-The post My tiny side project has had more impact than my decade in the software industry appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PHP Array Length Tutorial – How to Get an Array Size]]></title>
-        <id>600dc4230a2838549dcb6e8e</id>
-        <link href="https://www.freecodecamp.org/news/php-array-length-how-to-get-an-array-size/"/>
-        <updated>2021-08-27T19:10:13.000Z</updated>
-        <summary type="html"><![CDATA[Arrays are a powerful data type in PHP. And knowing how to quickly determine the size of an array is a useful skill.  In this article I'll give you a quick overview of how arrays work, and then I'll dive into how to get the size of PHP arrays. If]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The New Creator Economy – DAOs, Community Ownership, and Cryptoeconomics]]></title>
-        <id>612796f53bccf807612a8b55</id>
-        <link href="https://www.freecodecamp.org/news/the-new-creator-economy-daos-community-ownership-and-cryptoeconomics/"/>
-        <updated>2021-08-27T17:02:29.000Z</updated>
-        <summary type="html"><![CDATA[I first had what I can only describe as a spiritual awakening about 10 years ago to the fact that technology would (figuratively) rule the world. And since then, I've been obsessed with wanting to understand how software works and how to build it. Since that moment, my life has]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Responsive Web Design – Modern Website Code for Beginners]]></title>
-        <id>6127e0efb5177808226d29cb</id>
-        <link href="https://www.freecodecamp.org/news/responsive-web-design-modern-website-code-for-beginners/"/>
-        <updated>2021-08-27T16:33:18.000Z</updated>
-        <summary type="html"><![CDATA[When the internet was still young, website visitors used desktop and then laptop computers with wide screens to access websites.  Then when smart phones were developed, mobile phone users had to endlessly zoom and scroll to access and view different parts of those same websites.  Thankfully, this is no longer]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Fixed Background Attachment Hack]]></title>
-        <id>https://css-tricks.com/?p=350201</id>
-        <link href="https://css-tricks.com/the-fixed-background-attachment-hack/"/>
-        <updated>2021-08-27T14:42:16.000Z</updated>
-        <summary type="html"><![CDATA[What options do you have if you want the body background in a fixed position where it stays put on scroll? background-attachment: fixed in CSS, at best, does not work well in mobile browsers, and at worst is not even …
-The post The Fixed Background Attachment Hack appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Murtuzaali Surti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compound Components In React]]></title>
-        <id>https://smashingmagazine.com/2021/08/compound-components-react/</id>
-        <link href="https://smashingmagazine.com/2021/08/compound-components-react/"/>
-        <updated>2021-08-27T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Compound components help developers build more expressive and flexible APIs to share state and logic within components. This tutorial explains how this can be achieved with the help of using the Context API and React to build components by using this advanced pattern.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ichoku Chinonso)</name>
         </author>
     </entry>
 </feed>

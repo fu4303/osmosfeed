@@ -6,6 +6,15 @@
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": [
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2",
+          "author": null,
+          "description": "Fixed: unicode characters in URL caused download error\nFixed: project root npm install error\nAdded: unit test library\nChore: Dependency updates\nThank you: @CaptNo1",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2",
+          "publishedOn": "2021-09-26T18:45:39.000Z",
+          "wordCount": 354,
+          "title": "v1.11.2"
+        },
+        {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.1",
           "author": null,
           "description": "Fixed: Unexpected nested element in author field crashes the parser\nThank you @ad-m",
@@ -542,24 +551,6 @@
           "publishedOn": "2021-08-30T14:43:42.000Z",
           "wordCount": 4281,
           "title": "Exploring the CSS Paint API: Blob Animation"
-        },
-        {
-          "id": "https://css-tricks.com/?p=350782",
-          "author": "Chris Coyier",
-          "description": "That’s a heartwrenching title from Michael Williamson. I believe it though. It’s kinda like a maximized version of the blogging phenomenon where if you work on a post for weeks it’ll flop compared to a post that’s some dumb 20-minute …\nThe post My tiny side project has had more impact than my decade in the software industry appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://mike.zwobble.org/2021/08/side-projects-vs-industry/",
-          "publishedOn": "2021-08-27T19:14:10.000Z",
-          "wordCount": 738,
-          "title": "My tiny side project has had more impact than my decade in the software industry"
-        },
-        {
-          "id": "https://css-tricks.com/?p=350201",
-          "author": "Murtuzaali Surti",
-          "description": "What options do you have if you want the body background in a fixed position where it stays put on scroll? background-attachment: fixed in CSS, at best, does not work well in mobile browsers, and at worst is not even …\nThe post The Fixed Background Attachment Hack appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/the-fixed-background-attachment-hack/",
-          "publishedOn": "2021-08-27T14:42:16.000Z",
-          "wordCount": 1637,
-          "title": "The Fixed Background Attachment Hack"
         }
       ]
     },
@@ -914,20 +905,6 @@
           "title": "Refactoring CSS: Optimizing Size And Performance (Part 3)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa4e0eab-b23c-42ac-a622-b2ca8a02edd0/refactoring-css-optimizing-size-performance-part3.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/08/compound-components-react/",
-          "author": "hello@smashingmagazine.com (Ichoku Chinonso)",
-          "description": "Compound components help developers build more expressive and flexible APIs to share state and logic within components. This tutorial explains how this can be achieved with the help of using the Context API and React to build components by using this advanced pattern.",
-          "link": "https://smashingmagazine.com/2021/08/compound-components-react/",
-          "publishedOn": "2021-08-27T13:00:00.000Z",
-          "wordCount": 3120,
-          "title": "Compound Components In React",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e9df8cb4-b274-407a-97a8-f06488571802/compound-components-react.jpg",
             "length": "0",
             "type": "image/jpg"
           }
@@ -1937,33 +1914,6 @@
           "publishedOn": "2021-08-30T13:36:04.000Z",
           "wordCount": 516,
           "title": "Free 10-Hour Machine Learning Course"
-        },
-        {
-          "id": "600dc4230a2838549dcb6e8e",
-          "author": null,
-          "description": "Arrays are a powerful data type in PHP. And knowing how to quickly determine the size of an array is a useful skill.  In this article I'll give you a quick overview of how arrays work, and then I'll dive into how to get the size of PHP arrays. If",
-          "link": "https://www.freecodecamp.org/news/php-array-length-how-to-get-an-array-size/",
-          "publishedOn": "2021-08-27T19:10:13.000Z",
-          "wordCount": 1138,
-          "title": "PHP Array Length Tutorial – How to Get an Array Size"
-        },
-        {
-          "id": "612796f53bccf807612a8b55",
-          "author": null,
-          "description": "I first had what I can only describe as a spiritual awakening about 10 years ago to the fact that technology would (figuratively) rule the world. And since then, I've been obsessed with wanting to understand how software works and how to build it. Since that moment, my life has",
-          "link": "https://www.freecodecamp.org/news/the-new-creator-economy-daos-community-ownership-and-cryptoeconomics/",
-          "publishedOn": "2021-08-27T17:02:29.000Z",
-          "wordCount": 2650,
-          "title": "The New Creator Economy – DAOs, Community Ownership, and Cryptoeconomics"
-        },
-        {
-          "id": "6127e0efb5177808226d29cb",
-          "author": null,
-          "description": "When the internet was still young, website visitors used desktop and then laptop computers with wide screens to access websites.  Then when smart phones were developed, mobile phone users had to endlessly zoom and scroll to access and view different parts of those same websites.  Thankfully, this is no longer",
-          "link": "https://www.freecodecamp.org/news/responsive-web-design-modern-website-code-for-beginners/",
-          "publishedOn": "2021-08-27T16:33:18.000Z",
-          "wordCount": 2359,
-          "title": "Responsive Web Design – Modern Website Code for Beginners"
         }
       ]
     },
@@ -2023,5 +1973,5 @@
       "articles": []
     }
   ],
-  "cliVersion": "1.11.1"
+  "cliVersion": "1.11.2"
 }
