@@ -31,6 +31,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=352621",
+          "author": "Chris Coyier",
+          "description": "I enjoy little frameworks like Tonic. It’s essentially syntactic sugar over <web-components /> to make them feel easier to use. Define a Class, template literal an HTML template, probably some other fancy helpers, and you’ve got a component …\nThe post Tonic (Component Framework) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/tonic-component-framework/",
+          "publishedOn": "2021-09-27T18:52:46.000Z",
+          "wordCount": 595,
+          "title": "Tonic (Component Framework)"
+        },
+        {
+          "id": "https://css-tricks.com/?p=352211",
+          "author": "Ravgeet Dhillon",
+          "description": "A lot of people these days are setting up their own newsletters. You’ve got the current big names like Substack and MailChimp, companies like Twitter are getting into it with Revue, and even Facebook is getting into the …\nThe post Collecting Email Signups With the Notion API appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/collecting-email-signups-with-the-notion-api/",
+          "publishedOn": "2021-09-27T15:26:01.000Z",
+          "wordCount": 4008,
+          "title": "Collecting Email Signups With the Notion API"
+        },
+        {
           "id": "https://css-tricks.com/?p=352287",
           "author": "Chris Coyier",
           "description": "Say you have a z-index bug. Something is being covered up by something else. In my experience, a typical solution is to put position: relative on the thing so z-index works in the first place, and maybe rejigger the z-index…\nThe post Systems for z-index appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -560,6 +578,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/09/cypress-end-to-end-testing/",
+          "author": "hello@smashingmagazine.com (Ramona Schwering)",
+          "description": "Is end-to-end testing a painful topic for you? In this article, Ramona Schwering explains how to handle end-to-end testing with Cypress and make it make it not so tedious and expensive for yourself, but fun instead.",
+          "link": "https://smashingmagazine.com/2021/09/cypress-end-to-end-testing/",
+          "publishedOn": "2021-09-27T11:30:00.000Z",
+          "wordCount": 4948,
+          "title": "Let’s Dive Into Cypress For End-to-End Testing",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c42e65f-5a60-4844-a252-00169b21ab0c/cypress-end-to-end-testing.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/09/lessons-learned-ecommerce-nextjs-case-study/",
           "author": "hello@smashingmagazine.com (Jonne Kats)",
           "description": "We made the switch from a more traditional integrated e-commerce platform to a headless platform with Next.js. Here are the most important lessons learned while rebuilding a large e-commerce site with Next.js.",
@@ -916,6 +948,78 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "6149e65e9456b407b870fdc5",
+          "author": null,
+          "description": "GitHub is a collection of web-based tools that helps you work with version control and Git methodologies.  With the help of GitHub, you can create, manage, and collaborate on projects with multiple other team members. You keep the project folders and files in a store (file system) on GitHub. This",
+          "link": "https://www.freecodecamp.org/news/increase-engagement-on-your-public-github-repositories/",
+          "publishedOn": "2021-09-28T00:05:11.000Z",
+          "wordCount": 1737,
+          "title": "GitHub Repo Guide – How to Increase Engagement on your Public GitHub Repositories"
+        },
+        {
+          "id": "6148802f9456b407b870f041",
+          "author": null,
+          "description": "There are many articles about the Open-Closed Principle, but I can never find one that explains it in a way that really works for me.  So here, hopefully, is a good one – with a non trivial and real life example, what changes to support, and a description of the trade",
+          "link": "https://www.freecodecamp.org/news/open-closed-principle/",
+          "publishedOn": "2021-09-27T19:43:06.000Z",
+          "wordCount": 1607,
+          "title": "Open-Closed Principle – The Software Development Concept Explained in Plain English"
+        },
+        {
+          "id": "61508279ccc97307eb2bca3f",
+          "author": null,
+          "description": "Sharing your knowledge can help you improve your skills and level up your career as a developer. Many developers are already doing it, and if you aren't, this article is for you. In it, I will show you why you should share your coding expertise by looking at five extraordinary",
+          "link": "https://www.freecodecamp.org/news/why-you-should-share-your-knowledge-as-a-developer/",
+          "publishedOn": "2021-09-27T17:41:26.000Z",
+          "wordCount": 972,
+          "title": "Why You Should Share Your Knowledge as a Developer"
+        },
+        {
+          "id": "613f3cd3852f4307d372c7e8",
+          "author": null,
+          "description": "If you have just started learning JavaScript, you might have heard of the DOM. But what is it exactly? In this article, I will explain what the DOM is and provide some JavaScript code examples.  We will take a look at how to select elements from an HTML document, how",
+          "link": "https://www.freecodecamp.org/news/what-is-the-dom-document-object-model-meaning-in-javascript/",
+          "publishedOn": "2021-09-27T16:23:19.000Z",
+          "wordCount": 1470,
+          "title": "What is the DOM? Document Object Model Meaning in JavaScript"
+        },
+        {
+          "id": "614ad5b79456b407b871028d",
+          "author": null,
+          "description": "Lambda functions are anonymous functions that can contain only one expression. You may think that lambda functions are an intermediate or advanced feature, but here you will learn how you can easily start using them in your code. In Python, functions are usually created like this: def my_func(a)",
+          "link": "https://www.freecodecamp.org/news/lambda-function-in-python-example-syntax/",
+          "publishedOn": "2021-09-27T15:23:43.000Z",
+          "wordCount": 905,
+          "title": "Lambda Function in Python – Example Syntax"
+        },
+        {
+          "id": "614c40119456b407b8710b0f",
+          "author": null,
+          "description": "Making a website or web app accessible improves the user experience for people with disabilities and for all users as well. Since developers deal with tight deadlines and competing priorities, it is easy to accidentally ship unresolved accessibility issues to production. And things becomes even more complex when working with",
+          "link": "https://www.freecodecamp.org/news/react-accessibility-tools-build-accessible-react-apps/",
+          "publishedOn": "2021-09-27T14:18:59.000Z",
+          "wordCount": 2213,
+          "title": "React Accessibility Tools – How to Build More Accessible React Apps"
+        },
+        {
+          "id": "6151be27ccc97307eb2bcfa2",
+          "author": null,
+          "description": "Natural language processing, or NLP, is a branch of linguistics that seeks to parse human language in a computer system. spaCy is a popular Python library used for NLP. We just published a NLP and spaCy course on the freeCodeCamp.org YouTube channel. In the course you will learn all",
+          "link": "https://www.freecodecamp.org/news/natural-language-processing-with-spacy-python-full-course/",
+          "publishedOn": "2021-09-27T14:12:24.000Z",
+          "wordCount": 4451,
+          "title": "Natural Language Processing with spaCy &amp; Python - Full Course"
+        },
+        {
+          "id": "614bc3bd9456b407b87108b3",
+          "author": null,
+          "description": "By using big data, companies can learn a lot about how their businesses are performing. Analytics on sales, churn rates, and other basic metrics are available in almost real time as data comes in.  Then there are more complex analyses that you'll need to do. At times relationships between two",
+          "link": "https://www.freecodecamp.org/news/how-to-use-object-storage-for-parallelization-and-experimentation/",
+          "publishedOn": "2021-09-27T14:09:57.000Z",
+          "wordCount": 1510,
+          "title": "How to Use Object Storage for Data Parallelization and Experimentation"
+        },
         {
           "id": "614df185ccc97307eb2bc079",
           "author": null,
